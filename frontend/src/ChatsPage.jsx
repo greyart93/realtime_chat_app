@@ -4,7 +4,7 @@ import { PrettyChatWindow } from 'react-chat-engine-pretty'
 
 const ChatsPage = (props) => {
     // const chatProps = useMultiChatLogic(
-    //     '1ece0550-6dc8-4b9a-8c95-3e1e9d493a3f',
+    //     'xx-xx-xx-xx',
     //      props.user.username,
     //       props.user.secret)
 
