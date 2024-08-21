@@ -16,7 +16,7 @@ const ChatsPage = (props) => {
         <MultiChatWindow { ...chatProps} style={{height: '100%'}} /> */}
 
         <PrettyChatWindow 
-            projectId='1ece0550-6dc8-4b9a-8c95-3e1e9d493a3f'
+            projectId='xx-xx-xx-xx'
             username={ props.user.username }
             secret={ props.user.secret }
             style={{ height: '100%' }}
